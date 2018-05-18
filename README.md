@@ -9,9 +9,9 @@ The class itself was designed to teach students how to implements popular artifi
 
 Programs will not run as the basis data is not included. The purpose of providing this courseowrk is only to demonstrate my exposure to these algorithms.
 
-    **This class was taken after having only 2 months of experience in python and 
+    This class was taken after having only 2 months of experience in python and 
     I've chosen to include this very ugly code as a testement to how I have improved 
-    in a short period of time and since taking this course.**
+    in a short period of time and since taking this course.
 
 ## Artificial Intelligence Algorithms
 
